@@ -9,7 +9,7 @@ public class SpawnManager : MonoBehaviour
 
     private float zTrafficSpawn = 19f;
     private float xSpawnRange = 13f;
-    private float zcoinSpawnRange = 13f;
+    private float zcoinSpawnRange = 12f;
     private float ySpawn = 0.53f;
 
     // Start is called before the first frame update
